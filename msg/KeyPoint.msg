@@ -1,0 +1,2 @@
+float32 confidence
+Point2D position
